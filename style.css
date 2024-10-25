@@ -1,0 +1,29 @@
+.content {
+    background-color: chartreuse;
+    
+    width: 50%;
+    margin: 1px auto;
+}
+
+.block {
+    padding-top: 4px;
+    padding-right: 3px;
+    text-align: right;   
+   
+}
+
+.box {
+    text-align: left;
+    display: inline-block;
+    overflow: hidden;
+    background-color: white;
+    width: 32%;
+    height: 30%; 
+    padding: 2px;
+    box-sizing: border-box;
+}   
+
+.text {
+    font-weight: bold;
+}
+
